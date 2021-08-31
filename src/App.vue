@@ -20,4 +20,16 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 } */
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+body {
+    margin: 0 !important;
+    top:0;
+    right:0;
+}
+
 </style>

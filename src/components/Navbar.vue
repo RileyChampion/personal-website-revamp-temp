@@ -1,6 +1,6 @@
 <template>
-    <div>
-
+    <div id="navbar-container">
+        
     </div>
 </template>
 
@@ -14,6 +14,6 @@
     }
 </script>
 
-<style lang="scss" scoped>
+<style lang="css" scoped>
 
 </style>
