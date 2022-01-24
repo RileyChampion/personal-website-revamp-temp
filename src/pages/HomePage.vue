@@ -35,14 +35,46 @@
         <!-- Navbar appears here -->
         <!-- About Me -->
         <div id="about-me">
-            <div></div>
+            <div class="about-me__container">
+                <div class="about-me__text">
+                    <h1>Hi, I'm <span class="primary-color">Riley</span></h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati adipisci neque temporibus eos quaerat, incidunt molestias repudiandae, laborum veniam consectetur voluptatem voluptas maiores. Iste accusamus cupiditate, in sit aspernatur fugiat.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati adipisci neque temporibus eos quaerat, incidunt molestias repudiandae, laborum veniam consectetur voluptatem voluptas maiores. Iste accusamus cupiditate, in sit aspernatur fugiat.</p>
+                    <div class="about-me__information-container">
+                        <button class="about-me__resume">Resume</button>
+                        <!-- LinkedIn and github logo? -->
+                    </div>
+                </div>
+                <div class="about-me__photo-container">
+                    <img src="../assets/imgs/riley-temp.png" class="about-me__photo">
+                    <div class="about-me__photo-rectangles">
+                        <div class="blue-rectangle blue-rectangle-right"></div>
+                        <div class="red-rectangle red-rectangle-right"></div>
+                        <div class="blue-rectangle blue-rectangle-left"></div>
+                        <div class="red-rectangle red-rectangle-left"></div>
+                    </div>
+                </div>
+            </div>
         </div>
         <!-- Projects -->
         <div id="projects">
 
         </div>
         <!-- Contact Me -->
-        <div id="contact-me"></div>
+        <div id="contact-me">
+            <div class="contact-me__information-container">
+                <div class="contact-me__information-container__image">
+                    <img>
+                </div>
+                <div class="contact-me__information-container__text">
+                    <h3>Riley Champion</h3>
+                    <div class="contact-me__information-container__text-and-icon">
+                        <!-- icon -->
+                        <p>rchamp2u@gmail.com</p>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- Footer -->
         <div id="footer">
             <div class="footer__upper-text">Made with ❤️ by Riley Champion</div>
